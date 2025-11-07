@@ -1,3 +1,16 @@
 form{
     display:block
 }
+
+a{
+    color: red;
+}
+
+h2{
+    color: blueviolet;
+}
+
+.bg-black{
+    color: white;
+    background-color: black;
+}
